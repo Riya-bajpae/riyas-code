@@ -1,3 +1,2 @@
 # riyas-code
-this is my first git repository
-Author- Riya Bajpai
+this is my first git repository<br>Author- Riya Bajpai
